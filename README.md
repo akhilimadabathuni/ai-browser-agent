@@ -1,4 +1,5 @@
 AI Browser Agent 🤖
+
 Welcome to the AI Browser Agent, a powerful and interactive application that uses a large language model to understand your commands and control a web browser to perform tasks autonomously.
 
 This project combines a sophisticated AI "brain" with robust browser automation "hands" to create a personal assistant that can browse the web, find information, and complete tasks on your behalf, all through a sleek, futuristic web interface.
